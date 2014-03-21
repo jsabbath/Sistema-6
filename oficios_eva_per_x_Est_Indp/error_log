@@ -1,0 +1,1 @@
+[30-Aug-2013 16:57:07] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home8/facultad/public_html/sistema/oficios_eva_permanente/materias.php on line 9
